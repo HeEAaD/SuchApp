@@ -1,7 +1,7 @@
 SuchApp
 =======
 
-My first hack @ #BWDC. Making use of TouchID, Clousures and of course Swift.
+My first hack @ #BWDC. Making use of TouchID, Closures and of course Swift.
 
 Setup
 =======
