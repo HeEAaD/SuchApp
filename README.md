@@ -6,11 +6,11 @@ My first hack @ #BWDC. Making use of TouchID, Closures and of course Swift.
 Setup
 =======
 
-Open with Xcode.
-Insert your dogeapi.com API key in APIWrapper.swift
-Run.
+1. Open with Xcode.
+2. Insert your dogeapi.com API key in APIWrapper.swift
+3. Run.
 
 Known issues
 =======
 
-SuchWidget isn't working.
+- SuchWidget isn't working.
